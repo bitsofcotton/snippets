@@ -1,0 +1,1 @@
+(\mathrm{rad'}(abc)\leq c\Leftrightarrow \mathrm{rad'}(abc)\leq c\cdot\alpha\sqrt{1-\frac{ab}{c^2}}\sqrt{1+2\mathrm{rad'}(abc)^2})\vee(\mathrm{rad'}(abc)\geq c\Leftrightarrow \mathrm{rad'}(abc)\geq c\cdot\alpha\sqrt{1-\frac{ab}{c^2}}\sqrt{1+2\mathrm{rad'}(abc)^2})\vee(c\cdot\alpha\sqrt{1-\frac{ab}{c^2}}\sqrt{1+2\mathrm{rad'}(abc)^2}\leq \frac{\mathrm{rad'}(abc)}{c}\leq 1)
