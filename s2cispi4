@@ -1,0 +1,2 @@
+f(x):=((1+%i*x)^(1+%i*x))^(1/abs(1+%i*x)-%i*atan(x));
+float(realpart(f(sqrt(3))))
