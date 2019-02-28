@@ -4,4 +4,6 @@ realpart(f(1))+%i*imagpart(f(1))
 g(x):=abs(1+%i*x)^(1+%i*x)
 realpart(f(1))+%i*imagpart(f(1))
 
-rot before to calc??
+what about
+f(x):=(1+%i*x)*exp(((1+%i*x)*log(1+%i*x))/abs((1+%i*x)*log(1+%i*x)))
+only rot?? e^pi??
