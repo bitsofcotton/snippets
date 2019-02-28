@@ -1,0 +1,7 @@
+f(x):=(1+%i*x)^(1+%i*x)
+realpart(f(1))+%i*imagpart(f(1))
+
+g(x):=abs(1+%i*x)^(1+%i*x)
+realpart(f(1))+%i*imagpart(f(1))
+
+rot??
