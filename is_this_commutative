@@ -1,2 +1,4 @@
 (1+cis(theta))^((1+cis(theta))*(1-cis(theta)))
-at theta:=pi/8
+at theta:=pi/4
+sqrt(sqrt(2)+2)*%e^atan(sqrt(2)/(sqrt(2)+2))*cos((2*atan(sqrt(2)/(sqrt(2)+2))-log(sqrt(2)+2))/2)
+but useless for me...
